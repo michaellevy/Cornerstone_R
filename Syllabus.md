@@ -9,13 +9,13 @@ Location: Cornerstone Research, Menlo Park, California
 
 This is a two-day intensive introduction to modern computational techniques for data management, analysis, and visualization with an emphasis on the programming language R. The course is designed for quantitatively-oriented professionals but assumes no prior programming knowledge. By the end of the workshop, participants will understand the motivation for computational workflows including automation, collaboration, flexibility, and reproducability and be able to implement them. Participants will be able to efficiently clean data, organize it for analysis, estimate and work with the output of statistical models, produce a variety of publication-quality plots, and compose dynamic documents that integrate writing, code, and code output. 
 
-## Topics & Tentative Schedule
+## Topics & Schedule
 
 #### Day 1 AM
 
 - Spreadsheets and fundamentals of tabular data
-- Data cleaning with OpenRefine
 - Motivation for R and orientation to RStudio
+- Projects and directory structure
 - R foundations (base R)
 
 #### Day 1 PM
